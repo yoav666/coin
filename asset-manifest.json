@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/coin.git/static/css/main.24e3aac5.chunk.css",
-    "main.js": "/coin.git/static/js/main.3c1d8756.chunk.js",
-    "main.js.map": "/coin.git/static/js/main.3c1d8756.chunk.js.map",
-    "runtime-main.js": "/coin.git/static/js/runtime-main.2717490a.js",
-    "runtime-main.js.map": "/coin.git/static/js/runtime-main.2717490a.js.map",
-    "static/js/2.c6488655.chunk.js": "/coin.git/static/js/2.c6488655.chunk.js",
-    "static/js/2.c6488655.chunk.js.map": "/coin.git/static/js/2.c6488655.chunk.js.map",
-    "static/js/3.6f93b824.chunk.js": "/coin.git/static/js/3.6f93b824.chunk.js",
-    "static/js/3.6f93b824.chunk.js.map": "/coin.git/static/js/3.6f93b824.chunk.js.map",
-    "index.html": "/coin.git/index.html",
-    "static/css/main.24e3aac5.chunk.css.map": "/coin.git/static/css/main.24e3aac5.chunk.css.map",
-    "static/js/2.c6488655.chunk.js.LICENSE.txt": "/coin.git/static/js/2.c6488655.chunk.js.LICENSE.txt",
-    "static/media/contact.42200432.png": "/coin.git/static/media/contact.42200432.png"
+    "main.css": "/coin/static/css/main.24e3aac5.chunk.css",
+    "main.js": "/coin/static/js/main.3c1d8756.chunk.js",
+    "main.js.map": "/coin/static/js/main.3c1d8756.chunk.js.map",
+    "runtime-main.js": "/coin/static/js/runtime-main.7e13264e.js",
+    "runtime-main.js.map": "/coin/static/js/runtime-main.7e13264e.js.map",
+    "static/js/2.c6488655.chunk.js": "/coin/static/js/2.c6488655.chunk.js",
+    "static/js/2.c6488655.chunk.js.map": "/coin/static/js/2.c6488655.chunk.js.map",
+    "static/js/3.6f93b824.chunk.js": "/coin/static/js/3.6f93b824.chunk.js",
+    "static/js/3.6f93b824.chunk.js.map": "/coin/static/js/3.6f93b824.chunk.js.map",
+    "index.html": "/coin/index.html",
+    "static/css/main.24e3aac5.chunk.css.map": "/coin/static/css/main.24e3aac5.chunk.css.map",
+    "static/js/2.c6488655.chunk.js.LICENSE.txt": "/coin/static/js/2.c6488655.chunk.js.LICENSE.txt",
+    "static/media/contact.42200432.png": "/coin/static/media/contact.42200432.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2717490a.js",
+    "static/js/runtime-main.7e13264e.js",
     "static/js/2.c6488655.chunk.js",
     "static/css/main.24e3aac5.chunk.css",
     "static/js/main.3c1d8756.chunk.js"
